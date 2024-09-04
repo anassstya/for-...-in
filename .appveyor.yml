@@ -1,5 +1,5 @@
 image: Ubuntu2204
-stack: node 12
+stack: node 21
 branches:
   only:
   - master
